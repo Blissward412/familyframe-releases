@@ -1,16 +1,16 @@
 {
   "packageName": "com.blissward.familyframe",
-  "versionName": "0.1.7",
-  "versionCode": 9,
+  "versionName": "0.1.8",
+  "versionCode": 10,
   "minSdk": 28,
-  "bytes": 19422282,
-  "sha256": "9370d35697127fbf427d04a0f7651b47e54b79508ef37e333af72c2333582c4b",
+  "bytes": 19438666,
+  "sha256": "f727018473701a88fdffdca8536b471c3711b5c533f8002fd521458f1557e3b1",
   "date": "2026-10-30",
-  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.7/FamilyFrame-latest.apk",
+  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.8/FamilyFrame-latest.apk",
   "releaseNotes": [
-    "Wi-Fi에서 새 버전을 자동으로 내려받고 검증해요.",
-    "설치는 확인 버튼을 누르고 Android 화면에서 승인한 뒤에만 진행돼요.",
-    "무확인 설치 권한을 제거하고 사진과 설정은 그대로 유지해요.",
-    "설정의 업데이트 다운로드 · 설치 확인에서 자동 다운로드를 켜 주세요."
+    "관리자가 본가·처가·우리집 등 공유 가정을 여러 개 만들 수 있어요.",
+    "가족 휴대폰의 확인 번호를 확인하고 가정을 선택해 연결·승인해 주세요.",
+    "같은 가정의 여러 휴대폰이 각각 사진을 저장하며 선택하지 않은 가정에는 전달되지 않아요.",
+    "자동 다운로드 후 확인 설치 방식과 기존 사진·설정은 유지돼요."
   ]
 }
