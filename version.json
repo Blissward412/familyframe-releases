@@ -1,15 +1,15 @@
 {
   "packageName": "com.blissward.familyframe",
-  "versionName": "0.1.12",
-  "versionCode": 14,
+  "versionName": "0.1.13",
+  "versionCode": 15,
   "minSdk": 28,
-  "bytes": 19439954,
-  "sha256": "a2199231e534a678c922fcbbf113c48d4a8628a79759df9a9e3a53af4719e936",
+  "bytes": 19439950,
+  "sha256": "39f0ead873d1989ac47ed8b3d17323c69553f6348bf7b8c0ad288aad1a22794b",
   "date": "2026-10-30",
-  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.12/FamilyFrame-latest.apk",
+  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.13/FamilyFrame-latest.apk",
   "releaseNotes": [
-    "관리자만 전체 가정 목록을 볼 수 있어요.",
-    "일반 가족은 자기 가정만 보며 이전에 저장된 다른 가정 목록도 숨겨요.",
-    "다른 가정으로의 임의 전송과 구형 목록 조회도 서버에서 제한해요."
+    "사진은 관리자만 보낼 수 있어요. 일반 가족은 자동 수신·원본 저장·앨범과 위젯 보기만 사용해요.",
+    "관리자는 수신 폴더와 관계없이 휴대폰 사진 선택기에서 최근 사진을 여러 장 고를 수 있어요.",
+    "사진이 없는 가족 탭에서 예시 사진 대신 정확한 빈 앨범 안내를 보여줘요."
   ]
 }
