@@ -1,16 +1,16 @@
 {
   "packageName": "com.blissward.familyframe",
-  "versionName": "0.1.4",
-  "versionCode": 5,
+  "versionName": "0.1.7",
+  "versionCode": 9,
   "minSdk": 28,
-  "bytes": 19422322,
-  "sha256": "6578497ba7cc406e0272fe3b4c78485c4ed57ec4421338b6be2d528ca8331e7b",
+  "bytes": 19422282,
+  "sha256": "9370d35697127fbf427d04a0f7651b47e54b79508ef37e333af72c2333582c4b",
   "date": "2026-10-30",
-  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.4/FamilyFrame-latest.apk",
+  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.7/FamilyFrame-latest.apk",
   "releaseNotes": [
-    "배포 앱의 디버깅을 끄고 HTTP 통신을 차단했어요.",
-    "PC 테스트 설정을 배포 앱과 분리했어요.",
-    "기존 서명을 유지해 사진과 설정을 보존하며 업데이트할 수 있어요.",
-    "Play 프로텍트 차단 해제는 아직 확인되지 않았어요. 경고가 계속되면 설치를 중단해 주세요."
+    "Wi-Fi에서 새 버전을 자동으로 내려받고 검증해요.",
+    "설치는 확인 버튼을 누르고 Android 화면에서 승인한 뒤에만 진행돼요.",
+    "무확인 설치 권한을 제거하고 사진과 설정은 그대로 유지해요.",
+    "설정의 업데이트 다운로드 · 설치 확인에서 자동 다운로드를 켜 주세요."
   ]
 }
