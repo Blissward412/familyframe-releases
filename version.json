@@ -1,15 +1,15 @@
 {
   "packageName": "com.blissward.familyframe",
-  "versionName": "0.1.13",
-  "versionCode": 15,
+  "versionName": "0.1.14",
+  "versionCode": 16,
   "minSdk": 28,
   "bytes": 19439950,
-  "sha256": "39f0ead873d1989ac47ed8b3d17323c69553f6348bf7b8c0ad288aad1a22794b",
+  "sha256": "e9ad741f376fe0866a9db16eef9c70c09205f7c5ce1b64c782af0bfb1aa16cb1",
   "date": "2026-10-30",
-  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.13/FamilyFrame-latest.apk",
+  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.14/FamilyFrame-latest.apk",
   "releaseNotes": [
-    "사진은 관리자만 보낼 수 있어요. 일반 가족은 자동 수신·원본 저장·앨범과 위젯 보기만 사용해요.",
-    "관리자는 수신 폴더와 관계없이 휴대폰 사진 선택기에서 최근 사진을 여러 장 고를 수 있어요.",
-    "사진이 없는 가족 탭에서 예시 사진 대신 정확한 빈 앨범 안내를 보여줘요."
+    "위젯 사진의 420픽셀 제한을 없애고 액자 크기와 화면 밀도에 맞춰 선명하게 표시해요.",
+    "가로·세로 사진을 원본에서 액자 비율로 처리하고, 위젯 크기를 바꾸면 새 크기에 맞춰 다시 불러와요.",
+    "원본 사진과 자동 전환·다음 버튼, 관리자 전송·가족 자동 수신 방식은 유지해요."
   ]
 }
