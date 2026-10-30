@@ -1,16 +1,15 @@
 {
   "packageName": "com.blissward.familyframe",
-  "versionName": "0.1.9",
-  "versionCode": 11,
+  "versionName": "0.1.10",
+  "versionCode": 12,
   "minSdk": 28,
-  "bytes": 19438662,
-  "sha256": "23c9dd364ea6b55e992e171430aecf4d14a306c519ba1948f76d1410298fd381",
+  "bytes": 19439950,
+  "sha256": "f0fac13bf7949a65c3c967350212dc954a68a387fca1b475981a012168f741bf",
   "date": "2026-10-30",
-  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.9/FamilyFrame-latest.apk",
+  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.10/FamilyFrame-latest.apk",
   "releaseNotes": [
-    "관리자에게만 가정 관리·가족 승인 설정을 따로 표시해요.",
-    "일반 가족에게는 액자·사진 폴더·업데이트 등 필요한 설정만 보여요.",
-    "본가 두 기기의 자동 수신·알림·위젯과 처가 미전달을 에뮬레이터에서 확인했어요.",
-    "자동 다운로드 후 확인 설치와 기존 사진·설정은 유지돼요."
+    "A 새싹 편지 테마: 크림색·녹색과 작은 잎·꽃 장식으로 산뜻하게 바꿨어요.",
+    "앨범·사진 나누기·설정과 위젯 색상을 함께 다듬었어요.",
+    "관리자 전용 설정, 사진 공유·원본 보관, 자동 다운로드 후 확인 설치는 그대로 유지돼요."
   ]
 }
