@@ -1,15 +1,15 @@
 {
   "packageName": "com.blissward.familyframe",
-  "versionName": "0.1.11",
-  "versionCode": 13,
+  "versionName": "0.1.12",
+  "versionCode": 14,
   "minSdk": 28,
   "bytes": 19439954,
-  "sha256": "ca07c186258e9278a6c4297a06105b3dfe005bfc28efd34e660949a1218a4738",
+  "sha256": "a2199231e534a678c922fcbbf113c48d4a8628a79759df9a9e3a53af4719e936",
   "date": "2026-10-30",
-  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.11/FamilyFrame-latest.apk",
+  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.12/FamilyFrame-latest.apk",
   "releaseNotes": [
-    "관리자 설정과 미리보기 카드 사이 여백을 넓혀 겹쳐 보이는 문제를 수정했어요.",
-    "버튼 그림자 잘림을 없애고 하단 메뉴와 내용의 경계를 구분했어요.",
-    "새싹 편지 테마와 사진·공유·업데이트 설정은 유지돼요."
+    "관리자만 전체 가정 목록을 볼 수 있어요.",
+    "일반 가족은 자기 가정만 보며 이전에 저장된 다른 가정 목록도 숨겨요.",
+    "다른 가정으로의 임의 전송과 구형 목록 조회도 서버에서 제한해요."
   ]
 }
