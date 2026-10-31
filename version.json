@@ -1,15 +1,15 @@
 {
   "packageName": "com.blissward.familyframe",
-  "versionName": "0.1.14",
-  "versionCode": 16,
+  "versionName": "0.1.15",
+  "versionCode": 17,
   "minSdk": 28,
   "bytes": 19439950,
-  "sha256": "e9ad741f376fe0866a9db16eef9c70c09205f7c5ce1b64c782af0bfb1aa16cb1",
-  "date": "2026-10-30",
-  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.14/FamilyFrame-latest.apk",
+  "sha256": "6d867751648de849255582454ee7e675134578dafbdc8f67ba5b32d391f5d339",
+  "date": "2026-10-31",
+  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.15/FamilyFrame-latest.apk",
   "releaseNotes": [
-    "위젯 사진의 420픽셀 제한을 없애고 액자 크기와 화면 밀도에 맞춰 선명하게 표시해요.",
-    "가로·세로 사진을 원본에서 액자 비율로 처리하고, 위젯 크기를 바꾸면 새 크기에 맞춰 다시 불러와요.",
-    "원본 사진과 자동 전환·다음 버튼, 관리자 전송·가족 자동 수신 방식은 유지해요."
+    "가족 사진이 새로 저장되면 ‘새로운 소식이 도착했어요’ 알림을 보내요.",
+    "알림을 누르면 앨범의 최신 사진을 보여줘요.",
+    "알림이 꺼져 있으면 앨범과 설정에서 쉽게 켤 수 있어요."
   ]
 }
