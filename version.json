@@ -1,15 +1,15 @@
 {
   "packageName": "com.blissward.familyframe",
-  "versionName": "0.1.15",
-  "versionCode": 17,
+  "versionName": "0.1.16",
+  "versionCode": 18,
   "minSdk": 28,
-  "bytes": 19439950,
-  "sha256": "6d867751648de849255582454ee7e675134578dafbdc8f67ba5b32d391f5d339",
+  "bytes": 19439954,
+  "sha256": "b02277642c307d308501559b565aa6cb6aae3a8cb79dfdb4f15811947ed202d7",
   "date": "2026-10-31",
-  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.15/FamilyFrame-latest.apk",
+  "downloadUrl": "https://github.com/Blissward412/familyframe-releases/releases/download/v0.1.16/FamilyFrame-latest.apk",
   "releaseNotes": [
-    "가족 사진이 새로 저장되면 ‘새로운 소식이 도착했어요’ 알림을 보내요.",
-    "알림을 누르면 앨범의 최신 사진을 보여줘요.",
-    "알림이 꺼져 있으면 앨범과 설정에서 쉽게 켤 수 있어요."
+    "관리자 휴대폰의 수신 가정 선택을 제거했어요. 가정 연결 없이 사진을 보낼 수 있어요.",
+    "관리자 화면은 가정 관리와 전송 상태 중심으로 안내해요. 개인 액자용 폴더 연결은 선택 사항이에요.",
+    "가족 휴대폰의 소속 가정 연결과 사진을 보낼 때 받는 가정 선택은 유지해요."
   ]
 }
